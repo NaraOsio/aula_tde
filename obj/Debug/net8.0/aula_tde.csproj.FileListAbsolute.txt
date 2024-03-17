@@ -1,0 +1,14 @@
+C:\Users\nara\Desktop\aula_tde\obj\Debug\net8.0\aula_tde.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nara\Desktop\aula_tde\obj\Debug\net8.0\aula_tde.AssemblyInfoInputs.cache
+C:\Users\nara\Desktop\aula_tde\obj\Debug\net8.0\aula_tde.AssemblyInfo.cs
+C:\Users\nara\Desktop\aula_tde\obj\Debug\net8.0\aula_tde.csproj.CoreCompileInputs.cache
+C:\Users\nara\Desktop\aula_tde\bin\Debug\net8.0\aula_tde.exe
+C:\Users\nara\Desktop\aula_tde\bin\Debug\net8.0\aula_tde.deps.json
+C:\Users\nara\Desktop\aula_tde\bin\Debug\net8.0\aula_tde.runtimeconfig.json
+C:\Users\nara\Desktop\aula_tde\bin\Debug\net8.0\aula_tde.dll
+C:\Users\nara\Desktop\aula_tde\bin\Debug\net8.0\aula_tde.pdb
+C:\Users\nara\Desktop\aula_tde\obj\Debug\net8.0\aula_tde.dll
+C:\Users\nara\Desktop\aula_tde\obj\Debug\net8.0\refint\aula_tde.dll
+C:\Users\nara\Desktop\aula_tde\obj\Debug\net8.0\aula_tde.pdb
+C:\Users\nara\Desktop\aula_tde\obj\Debug\net8.0\aula_tde.genruntimeconfig.cache
+C:\Users\nara\Desktop\aula_tde\obj\Debug\net8.0\ref\aula_tde.dll
